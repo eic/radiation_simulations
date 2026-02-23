@@ -1,0 +1,3 @@
+viewSlices.cxx is a simple ROOT macro to visualize the radiation doses and fluences.
+
+Please see the file for usage, but only vanilla ROOT + the 3D radiation maps are needed to use the code.
